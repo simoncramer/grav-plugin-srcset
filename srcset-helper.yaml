@@ -1,0 +1,13 @@
+enabled: true
+active: true
+maxWidth: 1320
+minWidth: 320
+stepSize: 200
+defautlImageSize: 100vw
+size:
+  -
+    screenSize: (max-width:36em)
+    imageSize: 50vw
+  -
+    screenSize: (max-width:45em)
+    imageSize: 35vw
