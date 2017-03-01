@@ -1,6 +1,6 @@
 # Grav srcset Helper
 
-`srcset Helper` is a simple [Grav][grav] Plugin that makes the images (.jpg) in your pages responsive.
+`srcset Helper` is a simple [Grav][https://getgrav.org/] Plugin that makes the images (.jpg) in your pages responsive.
 
 # Installation
 
